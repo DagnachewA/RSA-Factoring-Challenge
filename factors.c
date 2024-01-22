@@ -6,7 +6,12 @@
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
-
+/**
+ * main - main function
+ *
+ * use argc and pointer argv[] as input
+ * Return: int
+ */
 int main(int argc, char *argv[])
 {
 	FILE *stream;
