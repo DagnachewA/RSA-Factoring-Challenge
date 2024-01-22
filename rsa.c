@@ -4,6 +4,7 @@
  * main - main function
  *
  * Main function for rsa
+ * argv[1], argc are inputs
  * Return: void
  */
 int main(int argc, char *argv[])

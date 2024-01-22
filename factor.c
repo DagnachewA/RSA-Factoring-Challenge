@@ -3,7 +3,7 @@
 /**
  * main - main function
  *
- *
+ * argc and argv[] are input variables
  * Return: void
  */
 int main(int argc, char *argv[])
