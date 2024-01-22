@@ -9,7 +9,9 @@
 /**
  * main - main function
  *
- * use argc and pointer argv[] as input
+ * Input parameters:
+ * argc integer
+ * argv pointer array of characters
  * Return: int
  */
 int main(int argc, char *argv[])
