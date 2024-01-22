@@ -7,12 +7,11 @@
 #include <math.h>
 #include <string.h>
 /**
- * main - main function
+ * main - Prints the number of arguments passed to it.
+ * @argc: The number of arguments supplied to the program.
+ * @argv: An array of pointers to the arguments.
  *
- * Input parameters:
- * argc integer
- * argv pointer array of characters
- * Return: int
+ * Return: Always 0.
  */
 int main(int argc, char *argv[])
 {
